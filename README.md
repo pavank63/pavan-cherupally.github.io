@@ -5,7 +5,7 @@ I'm Pavan Kalyan Reddy Cherupally, a software engineer with a strong background 
 I've always enjoyed working on both software development and data platform engineering. At BrowserStack, I played a key role in shifting from monolithic systems to Kubernetes-based microservices, set up feature flagging for smoother releases, and developed a platform that reduced infrastructure expenses. My time as a research assistant at IIIT Hyderabad was equally rewarding—I worked on machine learning models that made accurate predictions and wrote papers on AI/ML applications in VLSI design. Whether it's in academics or hands-on projects, I'm passionate about using my skills to create impactful solutions and drive technological progress.
 
 Reach out to me at :
-- [Link to my CV](https://pavan-kalyan.github.io/assets/resume.pdf)
-- [Linkedin](https://linkedin.com/pavankalyan63)
+- [Link to my CV](https://pavank63.github.io/assets/resume.pdf)
+- [Linkedin](https://www.linkedin.com/in/pavankalyan63/)
 - ASU Email: pcherup1@asu.edu
 - Secondary Email: pavankalyan.cherupally@gmail.com
